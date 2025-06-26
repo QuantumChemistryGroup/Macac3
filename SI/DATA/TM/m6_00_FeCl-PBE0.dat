@@ -1,0 +1,28 @@
+
+$molecule
+Fe     0.077559   0.088883   0.495864
+Cl     0.340126   1.651037   1.996089
+$end
+$temperature
+298.15
+$end
+$mult
+ 6
+$end
+$sigma
+ 1
+$end
+$pressure
+1.00000
+$end
+$scale
+0.983
+$end
+$msrrho
+100
+4
+1
+$end
+$freq
+396.22
+$end

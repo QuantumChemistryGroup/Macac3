@@ -1,0 +1,28 @@
+
+$molecule
+Cr     0.143470   0.011562  -0.182061
+Cl    -0.121817  -0.699084  -2.248903
+$end
+$temperature
+298.15
+$end
+$mult
+ 6
+$end
+$sigma
+ 1
+$end
+$pressure
+1.00000
+$end
+$scale
+0.983
+$end
+$msrrho
+100
+4
+1
+$end
+$freq
+392.05
+$end

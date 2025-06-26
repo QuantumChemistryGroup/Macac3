@@ -1,0 +1,28 @@
+
+$molecule
+ V    -0.479491  -0.050838  -0.940485
+ O    -1.718501  -0.285647  -1.871596
+$end
+$temperature
+298.15
+$end
+$mult
+ 4
+$end
+$sigma
+ 1
+$end
+$pressure
+1.00000
+$end
+$scale
+0.983
+$end
+$msrrho
+100
+4
+1
+$end
+$freq
+1069.82
+$end

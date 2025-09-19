@@ -1,0 +1,59 @@
+---------------------------------------------------------------------
+Results for m4_00_Cracac3-PBE0_Coacac_tmp.all 
+
+Average dfH = -324.89 
+
+Uncertainty = 6.3
+Computational contribution = 0.05
+Experimental contribution = 6.3
+---------------------------------------------------------------------
+Number of reactions with all coeficients ≤  10 : 2  of  2
+Parameters:
+h1 = 0.95 
+h2 = 38.1 
+
+Summ of all weights = 1.0
+---------------------------------------------------------------------
+Average values and MSE of reaction characteristics:
+
+                      Mean       St dev
+          dfH      -324.89         0.03
+     drE_corr       -25.87         0.67
+    n+dn_priv         8.00         0.03
+          drH        85.94         0.85
+         ddrH         1.44         0.08
+          drE        84.51         0.93
+      drE_CBS        92.49         1.00
+       drE_IT        -0.29         0.03
+       drE_CV        -2.56         0.00
+       drE_SR        -4.63         0.00
+   drE_HF_CBS       110.38         1.60
+          u/2         3.15         0.05
+
+
+---------------------------------------------------------------------
+2 reactions with the best weights:
+---------------------------------------------------------------------
+     weight      dfH  drE_corr  dn  n+|dn|       u      drH   ddrH      drE  drE_CBS  drE_CV  drE_IT  drE_TPNO  drE_SR  drE_HF_CBS  drE_HF_TZ  drE_HF_QZ                                           reaction
+0  1.000000 -324.889   -25.860   7     8.0   6.297   85.929  1.438   84.491   92.468  -2.564  -0.286    -0.501  -4.626     110.351    109.304    109.968          CrO6C15H21+H2+CoCl3->2ClH+CrCl+CoO6C15H21
+1  0.000303 -326.401   -64.487  17    10.0  11.709  134.504 -3.282  137.786  149.708  -2.525  -2.277    -2.434  -4.686     202.273    199.914    201.410  2CrO6C15H21+H2+2OH2+2CoCl3->6ClH+2CrO+2CoO6C15H21
+
+
+
+
+---------------------------------------------------------------------
+10 reactions with the worst weights:
+---------------------------------------------------------------------
+     weight      dfH  drE_corr  dn  n+|dn|       u      drH   ddrH      drE  drE_CBS  drE_CV  drE_IT  drE_TPNO  drE_SR  drE_HF_CBS  drE_HF_TZ  drE_HF_QZ                                           reaction
+1  0.000303 -326.401   -64.487  17    10.0  11.709  134.504 -3.282  137.786  149.708  -2.525  -2.277    -2.434  -4.686     202.273    199.914    201.410  2CrO6C15H21+H2+2OH2+2CoCl3->6ClH+2CrO+2CoO6C15H21
+0  1.000000 -324.889   -25.860   7     8.0   6.297   85.929  1.438   84.491   92.468  -2.564  -0.286    -0.501  -4.626     110.351    109.304    109.968          CrO6C15H21+H2+CoCl3->2ClH+CrCl+CoO6C15H21
+
+
+
+
+---------------------------------------------------------------------
+10 reactions with the worst dHf:
+---------------------------------------------------------------------
+     weight      dfH  drE_corr  dn  n+|dn|       u      drH   ddrH      drE  drE_CBS  drE_CV  drE_IT  drE_TPNO  drE_SR  drE_HF_CBS  drE_HF_TZ  drE_HF_QZ                                           reaction
+1  0.000303 -326.401   -64.487  17    10.0  11.709  134.504 -3.282  137.786  149.708  -2.525  -2.277    -2.434  -4.686     202.273    199.914    201.410  2CrO6C15H21+H2+2OH2+2CoCl3->6ClH+2CrO+2CoO6C15H21
+0  1.000000 -324.889   -25.860   7     8.0   6.297   85.929  1.438   84.491   92.468  -2.564  -0.286    -0.501  -4.626     110.351    109.304    109.968          CrO6C15H21+H2+CoCl3->2ClH+CrCl+CoO6C15H21
